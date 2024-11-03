@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasurumarov
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Frontend
+- 🌱 I’m currently working as a Frontend Developer
 - 📫 How to reach me atomviper181@gmail.com
 
 <!---
