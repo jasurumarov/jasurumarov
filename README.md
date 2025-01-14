@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m JasurCoder<br>👀 I’m interested in Web and Mobile programming<br>🌱 I’m currently learning React Native and Node.js<br>🤝 I’m looking to collaborate on MERN stack programmer
+👋 Hi, I’m JasurCoder<br>👀 I’m interested in Web and Mobile programming<br>🌱 I’m currently learning React Native and Node.js<br>🤝 I’m looking to collaborate on MERN stack programmers
 
 
 ## 🌐 Socials:
