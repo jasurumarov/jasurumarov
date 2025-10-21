@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="">portfolio</a> ·
-  <a href="https://jasurcoder.uz/">platform</a> ·
+  <a href="https://portfolio.jasurcoder.uz">portfolio</a> ·
+  <a href="https://jasurcoder.uz">platform</a> ·
   <a href="#">projects</a> ·
   <a href="#">work</a> ·
   <a href="#">initiative</a> ·
