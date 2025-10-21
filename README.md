@@ -1,3 +1,15 @@
+# 👨‍💻 Jasurbek Umarov
+
+Hi there! My name is Jasurbek, but you might know me as **JasurCoder**.  
+I'm a **Full-stack Developer** from **Uzbekistan**, collaborating with multiple companies and building strong tech networks.  
+I enjoy working with **TypeScript**, **Next.js**, **React Native**, and **Node.js**.  
+I'm passionate about **Open Source**, **Community Growth**, and love sharing my knowledge through social media and coding tutorials.  
+
+📍 Tashkent, Uzbekistan  
+🌐 [jasurcoder.uz](https://jasurcoder.uz)  
+📸 [Instagram](https://www.instagram.com/jasur.coder) · [Telegram](https://t.me/jasurcodes) · [LinkedIn](https://www.linkedin.com/in/jasurumarov)
+
+
 <p align="center">
   <a href="https://portfolio.jasurcoder.uz">portfolio</a> ·
   <a href="https://portfolio.jasurcoder.uz/projects">projects</a> ·
