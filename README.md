@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://portfolio.jasurcoder.uz">portfolio</a> ·
-  <a href="https://jasurcoder.uz">platform</a> ·
   <a href="https://portfolio.jasurcoder.uz/projects">projects</a> ·
   <a href="https://portfolio.jasurcoder.uz/blog">blog</a> ·
-  <a href="https://portfolio.jasurcoder.uz/contact">contact</a> ·
+  <a href="https://jasurcoder.uz">platform</a> ·
   <a href="https://jasurcoder.uz/interviews">courses</a> ·
   <a href="https://jasurcoder.uz/courses">interviews</a>
+  <a href="https://jasurcoder.uz/contact">contact</a> ·
 </p>
 
 <p align="center">
