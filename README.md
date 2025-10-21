@@ -2,10 +2,10 @@
   <a href="https://portfolio.jasurcoder.uz">portfolio</a> ·
   <a href="https://jasurcoder.uz">platform</a> ·
   <a href="https://portfolio.jasurcoder.uz/projects">projects</a> ·
-  <a href="#">work</a> ·
-  <a href="#">initiative</a> ·
-  <a href="#">social</a> ·
-  <a href="#">community</a>
+  <a href="https://portfolio.jasurcoder.uz/blog">blog</a> ·
+  <a href="https://portfolio.jasurcoder.uz/contact">contact</a> ·
+  <a href="https://jasurcoder.uz/interviews">courses</a> ·
+  <a href="https://jasurcoder.uz/courses">interviews</a>
 </p>
 
 <p align="center">
