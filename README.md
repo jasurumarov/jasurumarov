@@ -5,12 +5,6 @@ Hi there! My name is Jasurbek, but you might know me as <strong>JasurCoder</stro
 </p>
 
 <p align="center">
-📍 Tashkent, Uzbekistan · 🌐 <a href="https://jasurcoder.uz">jasurcoder.uz</a>
-</p>
-
----
-
-<p align="center">
   <a href="https://portfolio.jasurcoder.uz">portfolio</a> ·
   <a href="https://portfolio.jasurcoder.uz/projects">projects</a> ·
   <a href="https://portfolio.jasurcoder.uz/blog">blog</a> ·
