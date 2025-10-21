@@ -4,8 +4,8 @@
   <a href="https://portfolio.jasurcoder.uz/blog">blog</a> ·
   <a href="https://jasurcoder.uz">platform</a> ·
   <a href="https://jasurcoder.uz/courses">courses</a> ·
-  <a href="https://jasurcoder.uz/interviews">interviews</a>
-  <a href="https://jasurcoder.uz/contact">contact</a> ·
+  <a href="https://jasurcoder.uz/interviews">interviews</a> ·
+  <a href="https://jasurcoder.uz/contact">contact</a>
 </p>
 
 <p align="center">
