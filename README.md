@@ -1,4 +1,6 @@
-<h1 align="center">👨‍💻 Jasurbek Umarov</h1>
+<p align="center">
+  <img src="./jasurcoder-banner.png" alt="JasurCoder Banner" width="100%" />
+</p>
 
 <p align="center">
 Hi there! My name is Jasurbek, but you might know me as <strong>JasurCoder</strong>. I'm a <strong>Full-stack Developer</strong> from <strong>Uzbekistan</strong>, collaborating with multiple companies and building strong tech networks. I enjoy working with <strong>TypeScript</strong>, <strong>Next.js</strong>, <strong>React Native</strong>, and <strong>Node.js</strong>. I'm passionate about <strong>Open Source</strong> and <strong>Community Growth</strong>, and I love sharing my knowledge through tutorials and social media.
