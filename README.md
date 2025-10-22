@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./jasurcoder-banner.png" alt="JasurCoder Banner" width="100%" />
+  <img src="./jasurcoder-banner.png" alt="JasurCoder Banner" width="100%" style="border-radius: 16px;" />
 </p>
 
 <p align="center">
