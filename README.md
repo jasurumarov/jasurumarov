@@ -31,5 +31,5 @@ Hi there! My name is Jasurbek, but you might know me as <strong>JasurCoder</stro
   &nbsp;
   <a href="https://www.youtube.com/@JasurCoder">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
-  </a>
+  </a> 
 </p>
